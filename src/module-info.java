@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author roger
+ *
+ */
+module CofrinhoMoedas {
+}
